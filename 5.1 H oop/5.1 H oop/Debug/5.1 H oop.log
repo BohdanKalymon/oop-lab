@@ -1,0 +1,26 @@
+﻿  Bad_exception.cpp
+  DigitString.cpp
+C:\Users\ricky\source\repos\5.1 H oop\5.1 H oop\DigitString.h(8,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\ricky\source\repos\5.1 H oop\5.1 H oop\DigitString.h(9,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Exception.cpp
+  Fraction_Private.cpp
+C:\Users\ricky\source\repos\5.1 H oop\5.1 H oop\DigitString.h(8,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\ricky\source\repos\5.1 H oop\5.1 H oop\DigitString.h(9,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\ricky\source\repos\5.1 H oop\5.1 H oop\Fraction_Private.h(42,18): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\ricky\source\repos\5.1 H oop\5.1 H oop\Fraction_Private.h(63,81): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\ricky\source\repos\5.1 H oop\5.1 H oop\Fraction_Private.cpp(152,73): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  Fraction_Public.cpp
+C:\Users\ricky\source\repos\5.1 H oop\5.1 H oop\DigitString.h(8,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\ricky\source\repos\5.1 H oop\5.1 H oop\DigitString.h(9,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\ricky\source\repos\5.1 H oop\5.1 H oop\Fraction_Public.h(43,17): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\ricky\source\repos\5.1 H oop\5.1 H oop\Fraction_Public.h(64,80): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\ricky\source\repos\5.1 H oop\5.1 H oop\Fraction_Public.cpp(152,72): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  Source.cpp
+C:\Users\ricky\source\repos\5.1 H oop\5.1 H oop\DigitString.h(8,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\ricky\source\repos\5.1 H oop\5.1 H oop\DigitString.h(9,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\ricky\source\repos\5.1 H oop\5.1 H oop\Fraction_Public.h(43,17): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\ricky\source\repos\5.1 H oop\5.1 H oop\Fraction_Public.h(64,80): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\ricky\source\repos\5.1 H oop\5.1 H oop\Fraction_Private.h(42,18): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\ricky\source\repos\5.1 H oop\5.1 H oop\Fraction_Private.h(63,81): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  Generating Code...
+  5.1 H oop.vcxproj -> C:\Users\ricky\source\repos\5.1 H oop\Debug\5.1 H oop.exe
