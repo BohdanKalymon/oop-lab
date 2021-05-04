@@ -1,0 +1,37 @@
+﻿  Bad_exception.cpp
+  Exception.cpp
+  Man.cpp
+C:\Users\ricky\source\repos\5.1 F oop\5.1 F oop\Man.h(9,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\ricky\source\repos\5.1 F oop\5.1 F oop\Man.h(10,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\ricky\source\repos\5.1 F oop\5.1 F oop\Man.h(38,5): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\ricky\source\repos\5.1 F oop\5.1 F oop\Man.h(59,84): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\ricky\source\repos\5.1 F oop\5.1 F oop\Man.cpp(82,76): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  Source.cpp
+C:\Users\ricky\source\repos\5.1 F oop\5.1 F oop\Man.h(9,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\ricky\source\repos\5.1 F oop\5.1 F oop\Man.h(10,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\ricky\source\repos\5.1 F oop\5.1 F oop\Man.h(38,5): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\ricky\source\repos\5.1 F oop\5.1 F oop\Man.h(59,84): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\ricky\source\repos\5.1 F oop\5.1 F oop\Student_Public.h(45,16): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\ricky\source\repos\5.1 F oop\5.1 F oop\Student_Public.h(55,95): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\ricky\source\repos\5.1 F oop\5.1 F oop\Student_Private.h(50,17): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\ricky\source\repos\5.1 F oop\5.1 F oop\Student_Private.h(60,96): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  Student_Private.cpp
+C:\Users\ricky\source\repos\5.1 F oop\5.1 F oop\Man.h(9,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\ricky\source\repos\5.1 F oop\5.1 F oop\Man.h(10,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\ricky\source\repos\5.1 F oop\5.1 F oop\Man.h(38,5): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\ricky\source\repos\5.1 F oop\5.1 F oop\Man.h(59,84): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\ricky\source\repos\5.1 F oop\5.1 F oop\Student_Private.h(50,17): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\ricky\source\repos\5.1 F oop\5.1 F oop\Student_Private.h(60,96): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\ricky\source\repos\5.1 F oop\5.1 F oop\Student_Private.cpp(46,79): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\ricky\source\repos\5.1 F oop\5.1 F oop\Student_Private.cpp(85,88): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  Student_Public.cpp
+C:\Users\ricky\source\repos\5.1 F oop\5.1 F oop\Man.h(9,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\ricky\source\repos\5.1 F oop\5.1 F oop\Man.h(10,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\ricky\source\repos\5.1 F oop\5.1 F oop\Man.h(38,5): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\ricky\source\repos\5.1 F oop\5.1 F oop\Man.h(59,84): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\ricky\source\repos\5.1 F oop\5.1 F oop\Student_Public.h(45,16): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\ricky\source\repos\5.1 F oop\5.1 F oop\Student_Public.h(55,95): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\ricky\source\repos\5.1 F oop\5.1 F oop\Student_Public.cpp(46,79): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\ricky\source\repos\5.1 F oop\5.1 F oop\Student_Public.cpp(84,87): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  Generating Code...
+  5.1 F oop.vcxproj -> C:\Users\ricky\source\repos\5.1 F oop\Debug\5.1 F oop.exe
