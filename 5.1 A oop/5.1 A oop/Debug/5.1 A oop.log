@@ -1,0 +1,15 @@
+﻿  Bad_exception.cpp
+  Exception.cpp
+  Goods.cpp
+C:\Users\ricky\source\repos\5.1 A oop\5.1 A oop\Goods.h(10,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\ricky\source\repos\5.1 A oop\5.1 A oop\Goods.h(11,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\ricky\source\repos\5.1 A oop\5.1 A oop\Goods.h(31,7): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\ricky\source\repos\5.1 A oop\5.1 A oop\Goods.h(55,86): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\ricky\source\repos\5.1 A oop\5.1 A oop\Goods.cpp(116,78): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  Source.cpp
+C:\Users\ricky\source\repos\5.1 A oop\5.1 A oop\Goods.h(10,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\ricky\source\repos\5.1 A oop\5.1 A oop\Goods.h(11,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\ricky\source\repos\5.1 A oop\5.1 A oop\Goods.h(31,7): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\ricky\source\repos\5.1 A oop\5.1 A oop\Goods.h(55,86): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  Generating Code...
+  5.1 A oop.vcxproj -> C:\Users\ricky\source\repos\5.1 A oop\Debug\5.1 A oop.exe
