@@ -1,0 +1,19 @@
+﻿  Bad_exception.cpp
+  DigitString.cpp
+C:\Users\ricky\source\repos\5.1 I oop\5.1 I oop\DigitString.h(11,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\ricky\source\repos\5.1 I oop\5.1 I oop\DigitString.h(12,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Exception.cpp
+  Fraction.cpp
+C:\Users\ricky\source\repos\5.1 I oop\5.1 I oop\DigitString.h(11,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\ricky\source\repos\5.1 I oop\5.1 I oop\DigitString.h(12,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\ricky\source\repos\5.1 I oop\5.1 I oop\Fraction.h(42,10): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\ricky\source\repos\5.1 I oop\5.1 I oop\Fraction.h(63,73): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\ricky\source\repos\5.1 I oop\5.1 I oop\Fraction.cpp(152,65): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  Object.cpp
+  Source.cpp
+C:\Users\ricky\source\repos\5.1 I oop\5.1 I oop\DigitString.h(11,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\ricky\source\repos\5.1 I oop\5.1 I oop\DigitString.h(12,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\ricky\source\repos\5.1 I oop\5.1 I oop\Fraction.h(42,10): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\ricky\source\repos\5.1 I oop\5.1 I oop\Fraction.h(63,73): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  Generating Code...
+  5.1 I oop.vcxproj -> C:\Users\ricky\source\repos\5.1 I oop\Debug\5.1 I oop.exe
